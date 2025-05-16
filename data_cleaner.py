@@ -1,0 +1,1 @@
+import pandas as pd\n\ndef remove_null_values_and_duplicates(df):\n    df = df.dropna()\n    df = df.drop_duplicates()\n    return df
