@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_agent_config">
+  <sn_aia_agent_config action="INSERT_OR_UPDATE">
+    <active>false</active>
+    <agent display_value="Jira Service Management organization management spoke adapter">f187c63aff692210c68bffffffffffa0</agent>
+    <sys_class_name>sn_aia_agent_config</sys_class_name>
+    <sys_created_by>abhishek.suryvanshi</sys_created_by>
+    <sys_created_on>2025-05-20 09:19:36</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>fd87c63aff692210c68bffffffffffa3</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name/>
+    <sys_overrides/>
+    <sys_package display_value="Jira Service Management Spoke" source="sn_jira_sm_spoke">dc9a0a5c1bd1e410c4a4a9362a4bcb64</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Jira Service Management Spoke">dc9a0a5c1bd1e410c4a4a9362a4bcb64</sys_scope>
+    <sys_update_name>sn_aia_agent_config_fd87c63aff692210c68bffffffffffa3</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2025-05-20 09:19:36</sys_updated_on>
+  </sn_aia_agent_config>
+</record_update>
