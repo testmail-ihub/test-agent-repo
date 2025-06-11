@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_aia_agent_config">
+  <sn_aia_agent_config action="INSERT_OR_UPDATE">
+    <active>false</active>
+    <agent display_value="Microsoft Intune metadata retrieval spoke adapter">eae5df73ffb9e210c68bffffffffffcc</agent>
+    <sys_class_name>sn_aia_agent_config</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2025-06-05 03:51:41</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_id>e6e5df73ffb9e210c68bffffffffffd0</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name/>
+    <sys_overrides/>
+    <sys_package display_value="Microsoft Intune Spoke" source="sn_ms_intune_spoke">6e305d4b1b4ed850762e33b01a4bcb48</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Microsoft Intune Spoke">6e305d4b1b4ed850762e33b01a4bcb48</sys_scope>
+    <sys_update_name>sn_aia_agent_config_e6e5df73ffb9e210c68bffffffffffd0</sys_update_name>
+    <sys_updated_by>abhishek.suryvanshi</sys_updated_by>
+    <sys_updated_on>2025-06-05 03:51:41</sys_updated_on>
+  </sn_aia_agent_config>
+</record_update>
